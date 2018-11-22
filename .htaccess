@@ -1,0 +1,6 @@
+RewriteEngine on
+
+DirectoryIndex index.php
+
+RewriteRule ^index.html$ index.php
+RewriteRule ^category/(.*) index.php?pagemenu=$1

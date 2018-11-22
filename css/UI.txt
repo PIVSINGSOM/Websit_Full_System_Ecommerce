@@ -1,0 +1,5 @@
+1.Control flow Graph เป็น JPanel ว่างๆ
+2.Traceability Matrix tracing  กับ  Scenarios_for_UC 
+เป็น JPabel ถึงก็ลาก JTable มาวางทับ panel คลิกขวาที่ table เลือก Table contant (อันแรก) ไปที่ columns กับ rows ตรง count เป็น 0 
+ใส่ปุ่ม control flowgraph ในหน้า  Scenarios_for_UC
+3.แก้หน้า Match partition เป็นแบบข้อ 2
